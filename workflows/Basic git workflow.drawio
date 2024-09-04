@@ -1,57 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-09-04T23:20:33.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="2gk7YzO3PkdFu6mt1FDy" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="EMnhXRpVuKE52DRfWb7r">
     <mxGraphModel dx="2033" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-1" target="PJRE0t5YiVxjc7jddfUw-3">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-1" target="PJRE0t5YiVxjc7jddfUw-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-1" value="Start in the Capstone Development Management project" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-1" value="Start in the Capstone Development Management project" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-2" value="&amp;nbsp;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Adding a feature or fixing an assigned issue:&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-2" value="&amp;nbsp;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Adding a feature or fixing an assigned issue:&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-3" target="PJRE0t5YiVxjc7jddfUw-7">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-3" target="PJRE0t5YiVxjc7jddfUw-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-3" value="Create a new issue in the repository it relates to and assign it" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-3" value="Create a new issue in the repository it relates to and assign it" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="262" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-7" target="PJRE0t5YiVxjc7jddfUw-30">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-7" target="PJRE0t5YiVxjc7jddfUw-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-7" target="PJRE0t5YiVxjc7jddfUw-17">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-7" target="PJRE0t5YiVxjc7jddfUw-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-7" value="Are you the assignee?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-7" value="Are you the assignee?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="262" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-9" target="PJRE0t5YiVxjc7jddfUw-1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-9" target="PJRE0t5YiVxjc7jddfUw-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-9" value="&lt;b&gt;&lt;i&gt;I am creating an issue&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-9" value="&lt;b&gt;&lt;i&gt;I am creating an issue&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="65" y="60" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-10" target="PJRE0t5YiVxjc7jddfUw-30">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-10" target="PJRE0t5YiVxjc7jddfUw-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-10" value="&lt;b&gt;&lt;i&gt;I was assigned an issue&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-10" value="&lt;b&gt;&lt;i&gt;I was assigned an issue&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="575" y="80" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="495" y="260" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-17" value="No further action" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-17" value="No further action" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="112" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-19" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-19" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="210" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-21" target="PJRE0t5YiVxjc7jddfUw-44">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-21" target="PJRE0t5YiVxjc7jddfUw-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="620" />
@@ -59,16 +59,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-21" value="Create a branch for the issue using your personal branch as the source branch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-21" value="Create a branch for the issue using your main&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;as the source branch&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="478" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-23" value="The issue is a new issue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-23" value="The issue is a new issue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="380" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-27" value="The issue is related to another issue currently under development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-27" value="The issue is related to another issue currently under development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="340" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-30" target="PJRE0t5YiVxjc7jddfUw-35">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-30" target="PJRE0t5YiVxjc7jddfUw-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="655" y="360" />
@@ -76,16 +76,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-30" target="PJRE0t5YiVxjc7jddfUw-21">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-30" target="PJRE0t5YiVxjc7jddfUw-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-30" value="From the issue in the project, if..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-30" value="From the issue in the project, if..." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="252" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-35" target="PJRE0t5YiVxjc7jddfUw-41">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-35" target="PJRE0t5YiVxjc7jddfUw-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-35" target="PJRE0t5YiVxjc7jddfUw-44">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-35" target="PJRE0t5YiVxjc7jddfUw-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="550" />
@@ -93,13 +93,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-35" value="Can the issue be solved by modifying an existing branch?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-35" value="Can the issue be solved by modifying an existing branch?" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="388" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-40" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-40" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="375" y="468" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJRE0t5YiVxjc7jddfUw-41" target="PJRE0t5YiVxjc7jddfUw-44">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJRE0t5YiVxjc7jddfUw-41" target="PJRE0t5YiVxjc7jddfUw-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="620" />
@@ -107,46 +107,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-41" value="Create a new branch for the issue using the related issue branch as the source" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-41" value="Create a new branch for the issue using the related issue branch as the source" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-43" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-43" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="400" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-62" value="From GitHub Desktop" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-62" value="From GitHub Desktop" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="40" y="680" width="800" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-51" target="PJRE0t5YiVxjc7jddfUw-53">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-51" target="PJRE0t5YiVxjc7jddfUw-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-51" value="Is the source branch your personal branch?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-51" value="Is the source branch your personal branch?" style="ellipse;whiteSpace=wrap;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="315" y="270" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-53" target="PJRE0t5YiVxjc7jddfUw-60">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-53" target="PJRE0t5YiVxjc7jddfUw-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-53" value="Create a pull request to the main branch" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-53" value="Create a pull request to the main branch" style="whiteSpace=wrap;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="415" y="300" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-57" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-57" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="225" y="300" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-60" value="No further action" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-60" value="No further action" style="rhombus;whiteSpace=wrap;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="625" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-44" target="PJRE0t5YiVxjc7jddfUw-48">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-44" target="PJRE0t5YiVxjc7jddfUw-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-44" value="Work on the issue branch" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-44" value="Work on the issue branch" style="whiteSpace=wrap;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-48" value="Merge the fix with the source branch" style="whiteSpace=wrap;html=1;" vertex="1" parent="PJRE0t5YiVxjc7jddfUw-62">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-48" value="Merge the fix with the source branch" style="whiteSpace=wrap;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" vertex="1">
           <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-51" target="PJRE0t5YiVxjc7jddfUw-44">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-51" target="PJRE0t5YiVxjc7jddfUw-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="330" />
@@ -154,10 +154,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-48" target="PJRE0t5YiVxjc7jddfUw-51">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-48" target="PJRE0t5YiVxjc7jddfUw-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-64" value="In the GitHub Project" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-64" value="In the GitHub Project" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="800" height="580" as="geometry" />
         </mxCell>
       </root>
