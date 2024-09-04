@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-04T23:18:55.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="jdfzj1ffRBM-joCmGqoi" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-04T23:20:33.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="2gk7YzO3PkdFu6mt1FDy" version="24.2.5" type="github">
   <diagram name="Page-1" id="EMnhXRpVuKE52DRfWb7r">
     <mxGraphModel dx="2033" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="PJRE0t5YiVxjc7jddfUw-43" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-62" value="From GitHub Desktop" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-62" value="From GitHub Desktop" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="800" height="410" as="geometry" />
         </mxCell>
         <mxCell id="PJRE0t5YiVxjc7jddfUw-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-51" target="PJRE0t5YiVxjc7jddfUw-53">
@@ -157,7 +157,7 @@
         <mxCell id="PJRE0t5YiVxjc7jddfUw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PJRE0t5YiVxjc7jddfUw-62" source="PJRE0t5YiVxjc7jddfUw-48" target="PJRE0t5YiVxjc7jddfUw-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJRE0t5YiVxjc7jddfUw-64" value="In the GitHub Project" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJRE0t5YiVxjc7jddfUw-64" value="In the GitHub Project" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="800" height="580" as="geometry" />
         </mxCell>
       </root>
