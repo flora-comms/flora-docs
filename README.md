@@ -18,6 +18,5 @@ Meeting minutes, personal sandboxes, and journals
 ### projman-291
 Project work related to Project Management 291 assignments
 
-### workflows
-Guidelines for project workflows, including naming conventions, contributing to repositories, and templates.
-
+### resources
+Templates and guidelines for project workflows, including naming conventions and contributing to repositories.
