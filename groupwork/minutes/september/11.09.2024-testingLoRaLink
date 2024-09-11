@@ -1,0 +1,20 @@
+# Testing LoRaLink software
+
+- successfully go the software up and running by following trlink's instructions on the github (https://github.com/trlink/LoRaLink/wiki)
+1. configured Arduino environment
+2. Cloned libs
+3. Formatted FAT32 SD cards
+4. Wired up the SD cards to the Heltec V3 devices we had.
+5. We were able to join the SoftAPs and see the web page
+6. Got an error message. See below:
+
+## Issues
+
+1. "Unable to send message" Alert in web UI when sending messages
+- Troubleshooting we did
+   - Found function returning the alert: WebMessenger.js in "SendMessageShoutOut" function
+     - failed $.ajax call returns error which throws alert
+   - Wireshark saw no packets transmitted between client and server, indicating that the error is thrown by the UI not the ESP32 server.
+*SOLN:* Opened an issue with trlink's github.
+
+## Total Time: 2.5 hours
