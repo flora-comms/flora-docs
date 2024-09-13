@@ -34,10 +34,15 @@ Write this last
 
 #### Software/Firmware
 - An open-source web-based LoRa mesh network is already available on GitHub (LoRaLink) which we are using for prototyping and may use for some demonstratable outcomes at this stage.
-- We aim to develop everything in-house by the end of beta to allow for customizations and reduced complexity.
+- We aim to develop everything in-house (AVAlink v0.0) and have to allow for customizations and reduced complexity.
   - Firmware will be written in the Rust programming language to guarantee memory safety while ensuring maximal code performance.
   - The web app will be written using .NET Blazor or Svelte which can be served as a static Web Assembly (.wasm) file, offloading most of the compute from the microcontroller to the user's smartphone. This will optimize user experience and app performance.
-    - All modern mobile browsers support wasm since 2017.
+    - All modern mobile browsers support wasm since 2017 (caniuse.com)
+  - Beta software release is planned for October 28th 2024 followed by two weeks of testing. Software testing will be developed
+
+  #### Hardware
+  - We will deliver a prototype PCB (Petal v0.0) using pre-built modules by October 1st to be sent to JLCPCB
+  - We will develop hardware testing protocols by that time as well
 
 ### Parts/Materials
 
