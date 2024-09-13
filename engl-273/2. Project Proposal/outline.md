@@ -51,7 +51,7 @@ We are already in talks with the Kludahk Outdoors Club to do a trial of our prod
 
 ### Parts/Materials
 - Version 0 of the Petal Board will use pre-fabbed modules for the LoRa transciever, processor, and Wi-Fi to expedite the prototyping process and avoid the complexities of desinging a radio frequency (RF) PCB. 
-- For the LoRa transciever, we will use the WAVE Core1262 module which uses a Semtech 1262 transciever. It comes with the receiver balun, transmitter harmonic filters, RF switch, impendance matching circuits, and a temperature compensated crystal oscillator pre-installed. 
+- For the LoRa transciever, we will use the WAVE-20855-HF Core1262 module which uses a Semtech 1262 transciever. It comes with the receiver balun, transmitter harmonic filters, RF switch, impendance matching circuits, and a temperature compensated crystal oscillator pre-installed. 
 - For the processor and Wi-Fi, we will use the ESP32-S3-MINI-1 system on chip (SoC), which contains an ESP32-S3 dual-core microprocessor, peripherals with breakout pins, and a Wi-Fi module with in-built antenna. 
 - These RF circuits would be very difficult to design on our PCB without the luxury of time to do multiple PCB revisions, so version 0 will use modules. Version 1, our future production release, will replace these with circuits designed in-house to reduce the cost of and reliance on specialty modules.
 
