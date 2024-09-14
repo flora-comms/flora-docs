@@ -2,7 +2,9 @@
 
 # AGENDA
 
-## First issue
+## Project Supply Orders
+
+## Project Issues Status
 
 # OPEN MIC
 
