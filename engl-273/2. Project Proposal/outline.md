@@ -23,7 +23,7 @@ We are already in talks with the Kludahk Outdoors Club to do a trial of our prod
 - A LoRa based network provides low-cost and robust text-based communication. 
 - Low power means the devices can operate on solar and battery power - perfect for the outdoors
 - Having a gateway node allows access out to emergency services
-- Chaining nodes together into a mesh network allows coverage to be tuned to location (IDK what this means write better)
+- Chaining nodes together into a mesh network expands coverage, and we will provide contracting services to design and deploy our networks.
 
 ### Scope
 
