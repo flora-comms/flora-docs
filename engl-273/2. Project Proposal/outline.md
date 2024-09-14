@@ -39,7 +39,7 @@ We are already in talks with the Kludahk Outdoors Club to do a trial of our prod
 
 #### Software/Firmware
 - An open-source web-based LoRa mesh network is already available on GitHub (LoRaLink) which we are using for prototyping and may use for some demonstratable outcomes at this stage.
-- We aim to develop everything in-house (AVAlink v0.0) and have to allow for customizations and reduced complexity.
+- We aim to develop everything in-house (AVAlink v0.0) to allow for customization and reduced complexity.
   - Firmware will be written in the Rust programming language to guarantee memory safety while ensuring maximal code performance.
   - The web app will be written using .NET Blazor or Svelte which can be served as a static Web Assembly (.wasm) file, offloading most of the compute from the microcontroller to the user's smartphone. This will optimize user experience and app performance.
     - All modern mobile browsers support wasm since 2017 (caniuse.com)
