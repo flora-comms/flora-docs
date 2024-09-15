@@ -60,6 +60,7 @@ We are already in talks with the Kludahk Outdoors Club to do a trial of our prod
 1. Modules will be available throughout the prototyping stage
 2. The 915MHz ISM band will remain free for use by license-exempt radio equipement.
 3. Our system will not interfere with existing 915MHz systems when installed.
+4. Users will have a browser that supports web assembly
 
 ## Management
 
