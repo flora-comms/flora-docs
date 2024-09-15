@@ -1,18 +1,13 @@
 # Aaron's Journal
 
+## Sepetember 14, 2024
+- Still working on project proposal
+- Changed water ingress req to SHOULD, not MUST
+- Added R** and T** to req specs
 
 ## September 13, 2024
-
-### TODO:
-- [ ] Edit Project Requirements
-- [ ] Contribute to Project Proprosal
-- [ ] Create Naming conventions doc
-- [ ] Create Templates
-  - [ ] Monday Meetings
-  - [ ] Group Meetings
-
-### IF TIME
-- [ ] Talk to SX1262 with lora-rs
+- Did project proposal outline
+- Started first draft of project proposal
 
 ## September 12, 2024
 
