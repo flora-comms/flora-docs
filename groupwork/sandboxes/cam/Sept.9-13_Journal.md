@@ -27,6 +27,7 @@
 ### Friday Sepetmeber 9th - 3 Hrs. 
 #### meeting with Aaron , see meeting notes 
  - began researching options for web-app. Going to test out setting up environment with Blazor and creating a "Hello-World" test
+ - 
 
  ## Total Hours - 7.5 hrs. 
 
