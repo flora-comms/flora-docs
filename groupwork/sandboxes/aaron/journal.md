@@ -2,7 +2,8 @@
 
 ## September 15, 2024
 - Finished project proposal except for conclusion and summary which Cam will do
-- Built basic file server for LILYGO board
+- Started building basic file server. Got stuck with dependency and feature issues...
+Basic AP config is done, more to do tomorrow.
 
 ## Sepetember 14, 2024
 - Still working on project proposal
