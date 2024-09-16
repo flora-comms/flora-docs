@@ -1,5 +1,9 @@
 # Aaron's Journal
 
+## September 15, 2024
+- Finished project proposal except for conclusion and summary which Cam will do
+- Built basic file server for LILYGO board
+
 ## Sepetember 14, 2024
 - Still working on project proposal
 - Changed water ingress req to SHOULD, not MUST
