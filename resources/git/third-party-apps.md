@@ -7,4 +7,4 @@ Only commit new versions to github, not half-finished working copies.
 
 ## Altium
 Use the built-in Altium version control
-Only submit finished versions to github.
+Only submit finished versions to github with the associated version number in the commit.
