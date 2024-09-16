@@ -4,7 +4,7 @@ This repo contains project documentation, group meeting minutes, and related sch
 
 ## Root File Tree Overview
 
-Overview of the root file tree. An *(M)* indicates that this filetree can be contributed to on the main branch and does not require an open issue or pull-request. All others must be modified using the *Issues* workflow (<link>resources/workflows/git/issues</link>).
+Overview of the root file tree. An *(M)* indicates that this filetree can be contributed to on the main branch and does not require an open issue or pull-request. All others must be modified using the *milestones-and-branches* workflow (<link>resources/workflows/git/milestones-and-branches.md</link>).
 
 ### branding
 Documents related to branding - logos, marketing, etc.
@@ -18,5 +18,5 @@ Meeting minutes, personal sandboxes, and journals
 ### projman-291
 Project work related to Project Management 291 assignments
 
-### resources
-Templates and guidelines for project workflows, including naming conventions and contributing to repositories.
+### resources *(M)*
+Templates and guidelines for project workflows, including naming conventions, version control, and contributing to repositories.
