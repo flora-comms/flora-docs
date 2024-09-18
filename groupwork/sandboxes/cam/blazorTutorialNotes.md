@@ -1,6 +1,24 @@
 # Blazor tutorial Notes
 ## https://learn.microsoft.com/en-ca/training/paths/build-web-apps-with-blazor/
 
+### Blazor project structure
+- program.cs 
+manages HTTP requests and maps the changes to root HTML root component (app.razor component)\
+- Routes.razor
+the component that the app comonent uses to alter the main root\
+- MainLayout.Razor
+contains a @body component which is replaced by final HTML rendering\
+
+### Two types of Components
+#### Routable
+Router component  is able to locate them using URL\
+@page/"something\
+#### Non-Routable
+children of compoenents\
+
+
+
+
 ### Create and run a new Project 
 Open a terminal in vsCode\
 Navigate to the folder where you would like to create a project\
