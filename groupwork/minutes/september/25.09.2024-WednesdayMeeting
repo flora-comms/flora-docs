@@ -1,49 +1,30 @@
-# DATE
+# 25 September 2024 - Wednesday Meeting
 
-Meeting info
+Working on hardware and redoing Gantt Chart
 
 # AGENDA
 
 Agenda for today, prepared in advance
 
-## Project Issues Status
+## Hardware
 
-Status updates on project issues
+Finalize hardware stuff to start routing PCB
 
-### LAST TIME TODO
+### Schematic
 
+- FSPI pins
 
+### PCB
 
-### IN PROGRESS
+- Stack up
+- Traces (xlsx sheet)
+  - Critical Signal identification
+  - trace impedance and current capacity
 
-Issues in progress
+## Gantt Chart
 
-#### first issue
-
-
-### IN REVIEW
-
-Issues in review
-
-#### First issue
-
-### OTHERS
-
-Other issues req discussion
-
-## Project Supply Orders
-
-Do we need to order anything?
-
-# OPEN MIC
-
-Open to the group
-
-# TODO
-
-Things to do!
-
-- [ ]
+- fix issues (milestones, etc.)
+- Update github project?
 
 # 
 
