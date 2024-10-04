@@ -99,10 +99,12 @@ _Aaron_
 - [ ] Close todd assignment
 - [ ] Start working on Lora p2p
 - [ ] Assist with static server
+      
 _Tella_
 - [ ] Research and map out LoRa mesh network architecture on draw.io
 - [ ] Close risk asssesment issue
 - [ ] HAM presentation in back of mind
+      
 _Cam_
 - [ ] Static file serving test for monday demo
 
