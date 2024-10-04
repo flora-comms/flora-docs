@@ -1,5 +1,4 @@
 # DATE
-
 Meeting info
 
 # AGENDA
@@ -12,24 +11,29 @@ Status updates on project issues
 
 ### LAST TIME TODO
 
+### BACKLOG
 
+Upcoming issues
+
+#### First Issue
+
+### READY
+
+Issues ready to be picked up
+
+#### First Issue
 
 ### IN PROGRESS
 
 Issues in progress
 
-#### first issue
-
+#### First Issue
 
 ### IN REVIEW
 
 Issues in review
 
-#### First issue
-
-### OTHERS
-
-Other issues req discussion
+#### First Issue
 
 ## Project Supply Orders
 
@@ -48,4 +52,5 @@ Things to do!
 # 
 
 ***TEMPLATE INFO***
-***meeting-minutes.md v1.1***
+***meeting-minutes.md v1.2***
+***Updated 04 October 2024***
