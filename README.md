@@ -4,7 +4,7 @@ This repo contains project documentation, group meeting minutes, and related sch
 
 ## Root File Tree Overview
 
-Overview of the root file tree. An *(M)* indicates that this filetree can be contributed to on the main branch and does not require an open issue or pull-request. All others must be modified using the [milestones-and-branches](resources/workflows/git/milestones-and-branches.md) workflow.
+Overview of the root file tree. An *(M)* indicates that this filetree can be contributed to on the main branch and does not require an open issue or pull-request. All others must be modified using the [milestones-and-branches](resources/git/milestones-and-branches.md) workflow.
 
 ### branding
 Documents related to branding - logos, marketing, etc.
