@@ -4,7 +4,7 @@
 
 ## October 10
 Working on web socket protocol
-- For the timestamp, when the AP is booted, request time from gateway. When time is received, save current systick. When timestamping things, use rx ntp time plus the difference in current systick and received systick for the timestamp.
+- For the timestamp, when the AP is booted, request time from gateway. When time is received, save current systick. When timestamping things, use rx ntp time plus the difference in current systick and saved rx systick for the timestamp.
 
 # Hardware
 
