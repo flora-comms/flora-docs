@@ -1,5 +1,13 @@
 # Aaron's Journal
 
+# Software
+
+## October 10
+Working on web socket protocol
+- For the timestamp, when the AP is booted, request time from gateway. When time is received, save current systick. When timestamping things, use rx ntp time plus the difference in current systick and received systick for the timestamp.
+
+# Hardware
+
 ## September 15, 2024
 - Finished project proposal except for conclusion and summary which Cam will do
 - Started building basic file server. Got stuck with dependency and feature issues...
