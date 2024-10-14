@@ -47,10 +47,20 @@ Open to the group
 
 Things to do!
 
+_Aaron_
+
+- [ ]
+
+_Tella_
+
+- [ ]
+
+_Cam_
+
 - [ ]
 
 # 
 
 ***TEMPLATE INFO***
-***meeting-minutes.md v1.2***
-***Updated 04 October 2024***
+***meeting-minutes.md v1.3***
+***Updated 14 October 2024***
