@@ -6,19 +6,33 @@ Meeting info
 
 Prepared in advance
 
-## First issue
+## Requirement Change Order
 
-Something about the first issue
+v1.1 -> 1.2
 
 # PLANS FOR THIS WEEK
 
 ## DUE this week
 
-1. DUE this week
+Things due this week
+
+### Test Plan
+
+Done tonight
+
+### Progress Report
+
+Feedback from Kim tonight, final on Friday
+
+### Progress Presentation
+
+Start once the report is sent to Kim Monday night.
 
 ## Upcoming
 
-1. Upcoming
+1. Enclosure
+2. PCB arrival
+  - Building and testing Friday and Monday
 
 # TODO
 
@@ -26,15 +40,21 @@ Things each group member will do
 
 ## Tella
 
-1. Something
+1. LoRa network architecture: finishing
+2. Progress presentation
+3. Hardware building
 
 ## Aaron
 
-1. Something
+1. Progress presentation
+2. Firmware dev
+3. Hardware building
 
 ## Cam
 
-1. Something
+1. Web UI updates
+2. Progress presentation
+3. Hardware build
 
 ***Template Info:***
 
