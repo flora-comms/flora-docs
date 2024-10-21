@@ -43,18 +43,21 @@ Things each group member will do
 1. LoRa network architecture: finishing
 2. Progress presentation
 3. Hardware building
+4. Peer eval
 
 ## Aaron
 
 1. Progress presentation
 2. Firmware dev
 3. Hardware building
+4. Peer eval
 
 ## Cam
 
 1. Web UI updates
 2. Progress presentation
 3. Hardware build
+4. Peer eval
 
 ***Template Info:***
 
