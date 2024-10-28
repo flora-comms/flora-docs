@@ -12,6 +12,10 @@ Demo working web server on PCB
 
 ## USB connection not working?
 
+Get dev board working
+Replicate procedure for Petal
+if not working, look into removing R6 (might already be internal to module)
+
 # PLANS FOR THIS WEEK
 
 Progress presentation, standards, firmware dev
@@ -23,22 +27,6 @@ Progress presentation, standards, firmware dev
 ## Upcoming
 
 1. Standards document
-
-# TODO
-
-Things each group member will do
-
-## Tella
-
-1. Something
-
-## Aaron
-
-1. Something
-
-## Cam
-
-1. Something
 
 ***Template Info:***
 
