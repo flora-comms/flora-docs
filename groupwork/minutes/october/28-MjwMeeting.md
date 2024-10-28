@@ -6,19 +6,23 @@ Meeting info
 
 Prepared in advance
 
-## First issue
+## Built PCB
 
-Something about the first issue
+Demo working web server on PCB
+
+## USB connection not working?
 
 # PLANS FOR THIS WEEK
 
+Progress presentation, standards, firmware dev
+
 ## DUE this week
 
-1. DUE this week
+1. Progress Presentation 
 
 ## Upcoming
 
-1. Upcoming
+1. Standards document
 
 # TODO
 
