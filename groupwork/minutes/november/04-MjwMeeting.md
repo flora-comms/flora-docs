@@ -14,6 +14,10 @@ Got firmware beta done! Now on to refactoring and implementing RTOS/stack protoc
 
 We are doing another order. Budget is sitting at $341.08. Order we want to do is $60 give or take. 
 
+## PCB revision
+
+Are MJW happy with our PCB? Is it worth doing another revision. We'd like to focus our remaining time on firmware.
+
 # PLANS FOR THIS WEEK
 
 ## Due this week
