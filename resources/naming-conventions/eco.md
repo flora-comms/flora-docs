@@ -11,3 +11,4 @@ The code gives some info as to what the change order is in regards to. See the l
 | DC | Change the date of a milestone |
 | MnR | Minor requirement modification | 
 | MjR | Major requriement modification |
+| MC  | Milestone Change |
