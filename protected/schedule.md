@@ -4,7 +4,7 @@
 |                     |v0.0 testing         |November 26, 2024 |
 |                     |v0.1                 |November 26, 2024 |
 |                     |Enclosure v0.1       |November 1, 2024  |
-|                     |v0.1                 |December 26, 2024 |
+|                     |v0.2                 |December 26, 2024 |
 |                     |Datasheet            |December 13, 2024 |
 |                     |Enclosure v0.2       |December 13, 2024 |
 |                     |User Manual          |December 13, 2024 |
