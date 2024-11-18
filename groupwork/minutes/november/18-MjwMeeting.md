@@ -1,4 +1,4 @@
-# DATE MJW Meeting
+=## DATE MJW Meeting
 
 Meeting info
 
@@ -9,6 +9,7 @@ Prepared in advance
 ## Testing
 
 - Measuring ripple voltage
+  - Use main band. its just noise most likely
 - Radio shop testing on friday
 
 ## Firmware Progress
