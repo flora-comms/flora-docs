@@ -13,7 +13,12 @@ Prepared in advance
 
 ## Firmware Progress
 
-Stress test
+Power management task and Stress test
+
+## Symposium Display
+
+Ask about solar panels
+Run idea by them (pamphlet, map, game?)
 
 # PLANS FOR THIS WEEK
 
@@ -33,15 +38,15 @@ Things each group member will do
 
 ## Tella
 
-1. Something
+1. Risk Audit
 
 ## Aaron
 
-1. Something
+1. Article Outline
 
 ## Cam
 
-1. Something
+1. User manual outline
 
 ***Template Info:***
 
