@@ -28,20 +28,23 @@ Proposal: submit an abstract, outline, or **draft article**.
 - 3,000 (±500) words long
 
 Proposal checklist: 
- In the subject line of your email, specify which magazine it is intended for
- Your name, mailing address, phone number, and e-mail address
- When you plan to complete the article
- Detailed description of your project (if applicable).
- Detailed explanation of what you intend to discuss in the article
- Block diagram or schematic showing the circuitry (optional)
- Feel free to include any other diagrams, code, or photos
+[] In the subject line of your email, specify which magazine it is intended for
+[] Your name, mailing address, phone number, and e-mail address
+[] When you plan to complete the article
+[]  Detailed description of your project (if applicable).
+[]  Detailed explanation of what you intend to discuss in the article
+[] Block diagram or schematic showing the circuitry (optional)
+[] Feel free to include any other diagrams, code, or photos
 
 Preview: 2 or 3 sentences explaining what your article is about.
+
 Captions: descriptive captions must accompany each piece of art (2 to 3 complete
 sentences)
+
 Art: The maximum number of pieces of art is 10. Minimum is 4. As a rule of
 thumb, there should be at minimum 1 piece of art per 500 words.
 Photos
+
 Digital file formats: JPG, GIF, TIF, and BMP. (Do NOT send photos in a text file or
 PDF.) Photos must be high resolution (~ 300 dpi) at approximately 4 × 4 inches.
 
