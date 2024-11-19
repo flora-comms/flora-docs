@@ -28,13 +28,13 @@ Proposal: submit an abstract, outline, or **draft article**.
 - 3,000 (±500) words long
 
 Proposal checklist: 
-[] In the subject line of your email, specify which magazine it is intended for
-[] Your name, mailing address, phone number, and e-mail address
-[] When you plan to complete the article
-[]  Detailed description of your project (if applicable).
-[]  Detailed explanation of what you intend to discuss in the article
-[] Block diagram or schematic showing the circuitry (optional)
-[] Feel free to include any other diagrams, code, or photos
+[] In the subject line of your email, specify which magazine it is intended for /n
+[] Your name, mailing address, phone number, and e-mail address /n
+[] When you plan to complete the article /n
+[]  Detailed description of your project (if applicable). /n
+[]  Detailed explanation of what you intend to discuss in the article /n
+[] Block diagram or schematic showing the circuitry (optional) /n
+[] Feel free to include any other diagrams, code, or photos /n
 
 Preview: 2 or 3 sentences explaining what your article is about.
 
