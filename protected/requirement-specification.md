@@ -36,3 +36,24 @@ _TABLE 1_: Requirement specifications and features, their tests, and their pass 
 ## Table 2 - Legend
 
 _TABLE 2_: Legend describing how to reference _Table 1_.
+
+|Reference Number| Requirement | Testing | Criteria|
+|-----------------|-----------|------|---|
+|#-(ID): 
+HW: Indicates a hardware requirement 
+SW: Indicates a software requirement|
+
+R#: 
+A requirement, something the component MUST have, followed by an identification number that begins at 0.
+F#:
+A feature, something the component SHOULD have, followed by an identification number that begins at 0.|
+
+T#.#:
+The test identification number. The number matches the requirement it corresponds to. If multiple tests relate to the same requirement, a second reference number is added with a decimal point.
+FT.#.#:
+Same as requirement tests but relates to a feature. |
+C#.#.#:
+The criteria identification number. The number matches the test it corresponds to. If multiple criteria exist for the same test, a second sub-reference number is added. A Pass is required.
+FC.#.#.#:
+Same as requirement criteria but relates to a feature and is not required to pass.
+|
