@@ -27,7 +27,7 @@ Anything we have questions about?
 Proposal: submit an abstract, outline, or **draft article**.
 - 3,000 (±500) words long
 
-Proposal checklist: 
+Proposal checklist: \
 [] In the subject line of your email, specify which magazine it is intended for \
 [] Your name, mailing address, phone number, and e-mail address \
 [] When you plan to complete the article \
