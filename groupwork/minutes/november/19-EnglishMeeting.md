@@ -15,11 +15,18 @@ Our questions for Kim
 
 Print budget and lead times?
 
+- Camosun but not through English.
+
+Suggestions for making a brochure?
+
+- Use publisher
+
 ## Circuit Cellar Content Guidelines
 
 Anything we have questions about?
 - would we be submitting a full draft article as our proposal?
 - clarification: listing of figures in the body of article and submitting files separately.
+
 - schematics get redrawn by CC to fit their article aesthetic?
 - Preview: 2 or 3 sentences explaining what your article is about. (hooky blurb?)
 - Our Article: **Complete Application**?
@@ -27,7 +34,7 @@ Anything we have questions about?
 Proposal: submit an abstract, outline, or **draft article**.
 - 3,000 (±500) words long
 
-Proposal checklist: \
+Proposal checklist: 
 [] In the subject line of your email, specify which magazine it is intended for \
 [] Your name, mailing address, phone number, and e-mail address \
 [] When you plan to complete the article \
