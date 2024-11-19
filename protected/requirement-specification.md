@@ -2,7 +2,7 @@
 
 Requirements for FloraNet, deliverable Dec 13th, 2024.
 
-See Table 2 for the legend.
+See the legend below Table 1 for how items are indexed.
 
 ## Table 1 - Requirements & Features
 
@@ -33,27 +33,29 @@ _TABLE 1_: Requirement specifications and features, their tests, and their pass 
 |                |F1 – An RGB LED indicates the state the hardware is in with different colours (Passive, New message Available, Active, Waiting, Low battery) |                                                                                                                                                                                                                                        |FC1.0 – The LED indicates a New Message state.                                                                                                                                                                                 |NC       |
 |                |                                                                                                                                             |                                                                                                                                                                                                                                        |FC1.1 – The LED indicates low voltage.                                                                                                                                                                                         |NC       |
 
-## Table 2 - Legend
+## Legend
 
-_TABLE 2_: Legend describing how to reference _Table 1_.
+How to reference Table 1.
 
-|Reference Number| Requirement | Testing | Criteria|
-|-----------------|-----------|------|---|
-|#-(ID): 
+**Reference Number**
+_#-(ID):_
 HW: Indicates a hardware requirement 
-SW: Indicates a software requirement|
+SW: Indicates a software requirement
 
-R#: 
+**Requirement**
+_R#:_
 A requirement, something the component MUST have, followed by an identification number that begins at 0.
-F#:
-A feature, something the component SHOULD have, followed by an identification number that begins at 0.|
+_F#:_
+A feature, something the component SHOULD have, followed by an identification number that begins at 0.
 
-T#.#:
+**Test**
+_T#.#:_
 The test identification number. The number matches the requirement it corresponds to. If multiple tests relate to the same requirement, a second reference number is added with a decimal point.
-FT.#.#:
-Same as requirement tests but relates to a feature. |
-C#.#.#:
+_FT.#.#:_
+Same as requirement tests but relates to a feature. 
+
+**Criteria**
+_C#.#.#:_
 The criteria identification number. The number matches the test it corresponds to. If multiple criteria exist for the same test, a second sub-reference number is added. A Pass is required.
-FC.#.#.#:
+_FC.#.#.#:_
 Same as requirement criteria but relates to a feature and is not required to pass.
-|
