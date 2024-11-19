@@ -34,7 +34,7 @@ Proposal checklist: \
 []  Detailed description of your project (if applicable). \
 []  Detailed explanation of what you intend to discuss in the article \
 [] Block diagram or schematic showing the circuitry (optional) \
-[] Feel free to include any other diagrams, code, or photos \
+[] Feel free to include any other diagrams, code, or photos
 
 Preview: 2 or 3 sentences explaining what your article is about.
 
