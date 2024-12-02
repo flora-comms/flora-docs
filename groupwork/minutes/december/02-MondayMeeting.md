@@ -14,7 +14,7 @@ Status updates on project issues
 
 _Aaron_
 
-- [ ] Write first draft
+- [X] Write first draft
 
 _Tella_
 
@@ -22,8 +22,8 @@ Off
 
 _Cam_
 
-- [ ] Mostly finish user manual
-- [ ] Firmware stuff (pwr management)?
+- [X] Mostly finish user manual
+- [X] Firmware stuff (pwr management)?
 
 ### BACKLOG
 
@@ -63,7 +63,9 @@ Issues in progress
 
 #### User Manual v1.0 beta
 
+Completed first draft, cam will do one more proof and then pass off for editing.
 
+Will submit on thursday
 
 #### Formal Report beta
 
@@ -93,11 +95,26 @@ Nothing in review today
 
 ## Project Supply Orders
 
-Do we need to order anything?
+Confirm if we need to order anything for project display
 
 ### Project Display
 
+To Do:
+- Create slideshow for 2nd monitor (Maybe just use website?)
+- Make sure web-app can render nicely on monitor
+- build LVD demo cct
+- Make Pamphplet
+- Print QR-codes (Laminated?)
+- Make Node instruction set
+
 Make a list of stuff and send on discord:
+
+- 2 monitors
+- Variable power supply
+- 2 power bars
+- extension cord
+- 3 small tables for nodes
+
 
 # OPEN MIC
 
@@ -110,9 +127,15 @@ Do it as a group
 _Aaron_ 
 
 - Territory acknowledgements are an indegenous tradition still followed today when one people visits the territory of another.
-- Inspired by territory acknowledgements and recognizing the 94 Calls to Action put forward by the Truth and Reconcilliation committee, Land acknowledgements are a starting place for settlers to understand the deep importance of the land where we work, play, and learn to the Indigenous peoples who have been here since time immemorial, but to also remember the ongoing harm caused by colonialism and the residential school system. Everyone has a role to play in the pursuit of reconciliation that goes far beyond these statements.
+- Inspired by territory acknowledgements and recognizing the 94 Calls to Action put forward by the Truth and Reconcilliation committee, Land acknowledgements are a starting place for settlers to understand the deep importance of the land where we work, play, and learn to the Indigenous peoples who have been here since time immemorial, but to also remember the ongoing harm caused by colonialism and the residential school system. Everyone has a role in reconciliation that goes far beyond these statements.
 
 - I am a third generation settler from the Netherlands. Fleeing Nazi-occupied Holland, my grandparents settled in the traditional territories of the Erie, Neutral, Huron-Wendat, Haudenosaunee (ho-den-o-show-nee), and Missisaugas of the Credit under the Dish With One Spoon Wampum Belt Covenant. I now live, work, learn, and play in the unceded traditional territories of the Wsanec and Songhees nations.
+
+- Cam
+
+- Tella
+
+-invitation to markets/current events
 
 # TODO
 
@@ -120,15 +143,17 @@ Things to do!
 
 _Aaron_
 
-- [ ]
+- [ ] Presentation prep
+- [ ] Final drafts of article
 
 _Tella_
 
-- [ ]
+- [ ] Create draft of pamphlet 
 
 _Cam_
 
-- [ ]
+- [] Final draft of user manual
+- [] Power management testing
 
 # 
 
