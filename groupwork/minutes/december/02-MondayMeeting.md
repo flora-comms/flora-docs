@@ -129,11 +129,15 @@ _Aaron_
 - Territory acknowledgements are an indegenous tradition still followed today when one people visits the territory of another.
 - Inspired by territory acknowledgements and recognizing the 94 Calls to Action put forward by the Truth and Reconcilliation committee, Land acknowledgements are a starting place for settlers to understand the deep importance of the land where we work, play, and learn to the Indigenous peoples who have been here since time immemorial, but to also remember the ongoing harm caused by colonialism and the residential school system. Everyone has a role in reconciliation that goes far beyond these statements.
 
-- I am a third generation settler from the Netherlands. Fleeing Nazi-occupied Holland, my grandparents settled in the traditional territories of the Erie, Neutral, Huron-Wendat, Haudenosaunee (ho-den-o-show-nee), and Missisaugas of the Credit under the Dish With One Spoon Wampum Belt Covenant. I now live, work, learn, and play in the unceded traditional territories of the Wsanec and Songhees nations.
+- I am a third generation settler from the Netherlands. Fleeing Nazi-occupied Holland, my grandparents settled in the traditional territories of the Erie, Neutral, Huron-Wendat, Haudenosaunee (ho-den-o-show-nee), and Missisaugas of the Credit under the Dish With One Spoon Wampum Belt Covenant. I now live, work, learn, and play in the unceded traditional territories of the Wsanec, Songhees, and Esquimalt nations.
 
-- Cam
+_Cam_
 
-- Tella
+Hello my name is Cameron Gillingham, I am a settler on these lands and i am of Irish heritage. I grew up on the traditional territory of the SIKSIKA (Sik-Sik-a), Kanai (Gay-nah), Pikani (Pee-gun-ee), Stoney-Nakoda and Tsuut'ina (Soot-Inna) nations. 
+
+As a group we all share a passion for the outdoors, and this shared love was a large inspiration for our project. I would like to acknowledge our place as guests on the unceded land of the Lekwungen speaking peoples, known today as the Wsanec, Songhees, and Esquimalt nations and to also express gratitude and appreciation to these nations for their care and stewardship of this land for long before our arrival. 
+
+_Tella_
 
 -invitation to markets/current events
 
